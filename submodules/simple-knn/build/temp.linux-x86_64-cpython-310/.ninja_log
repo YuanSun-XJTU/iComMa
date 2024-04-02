@@ -1,0 +1,5 @@
+# ninja log v5
+0	11005	1708172453290674044	/home/sunyuan/iComMa_git/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	b42a0e35e746becf
+0	20038	1708172462322682870	/home/sunyuan/iComMa_git/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	a0d72c6dbb87d7e5
+1	48970	1708172491254712720	/home/sunyuan/iComMa_git/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	ce88b6ab07f4b5a4
+10	19609	1708173336552226589	/home/sunyuan/iComMa_git/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	a0d72c6dbb87d7e5

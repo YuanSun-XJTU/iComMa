@@ -1,0 +1,7 @@
+# ninja log v5
+0	15225	0	/home/zyf/gs/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	e71344378efad16b
+0	21187	0	/home/zyf/gs/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	e7076b19e358359b
+1	47984	0	/home/zyf/gs/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	94444ace34a21cc3
+0	11753	0	/home/zyf/zj/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	eb61914c5064c550
+0	19267	0	/home/zyf/zj/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	1c00f5acfd9b1cdb
+0	45634	0	/home/zyf/zj/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	96021c7b1ee6e302
