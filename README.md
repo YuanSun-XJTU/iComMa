@@ -77,10 +77,9 @@ python run.py -m <model path> --obs_img_index <query camera index> --delta <came
 If you find our work useful in your research, please consider citing:
 ```
 @article{sun2023icomma,
-  title={iComMa: Inverting 3D Gaussian Splatting for Camera Pose Estimation via Comparing and Matching},
+  title={icomma: Inverting 3d gaussians splatting for camera pose estimation via comparing and matching},
   author={Sun, Yuan and Wang, Xuan and Zhang, Yunfan and Zhang, Jie and Jiang, Caigui and Guo, Yu and Wang, Fei},
-  journal={arXiv e-prints},
-  pages={arXiv--2312},
+  journal={arXiv preprint arXiv:2312.09031},
   year={2023}
 }
 ```
