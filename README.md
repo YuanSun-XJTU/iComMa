@@ -105,7 +105,7 @@ Reference LoFTR for the matching module: https://github.com/zju3dv/LoFTR
   year={2021}
 }
 ```
-Referenced the code of iNeRF: https://github.com/salykovaa/inerf
+Reference the code of iNeRF: https://github.com/salykovaa/inerf
 ```
 @article{yen2020inerf,
   title={{iNeRF}: Inverting Neural Radiance Fields for Pose Estimation},
