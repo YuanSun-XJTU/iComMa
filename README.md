@@ -1,13 +1,13 @@
 # iComMa: Inverting 3D Gaussian Splatting for Camera Pose Estimation via Comparing and Matching
 
- <a href='https://arxiv.org/pdf/2312.09031.pdf'><img src='https://img.shields.io/badge/ArXiv-PDF-red'></a> &nbsp; <a href='https://arxiv.org/pdf/2312.09031.pdf'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+ <a href='https://arxiv.org/pdf/2312.09031.pdf'><img src='https://img.shields.io/badge/ArXiv-PDF-red'></a> &nbsp; <a href='https://yuansun-xjtu.github.io/iComMa.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 
 <div align="center">
     <a target='_blank'>Yuan Sun <sup>1</sup> </a>&emsp;
     <a href='https://xuanwangvc.github.io/' target='_blank'>Xuan Wang <sup>2</sup></a>&emsp;
     <a target='_blank'>Yunfan Zhan <sup>1</sup> </a>&emsp;
     <a target='_blank'>Jie Zhang <sup>1</sup> </a>&emsp;
-    <a target='_blank'>Caigui Jiang  <sup>1</sup> </a>&emsp;</br>
+    <a href='https://caiguijiang.github.io/' target='_blank'>Caigui Jiang <sup>1</sup> </a>&emsp;</br>
     <a href='https://yuguo-xjtu.github.io/' target='_blank'>Yu Guo<sup>1</sup> </a>&emsp;
     <a target='_blank'>Fei Wang <sup>1</sup> </a>&emsp;
 </div>
