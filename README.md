@@ -5,7 +5,7 @@
 <div align="center">
     <a target='_blank'>Yuan Sun <sup>1</sup> </a>&emsp;
     <a href='https://xuanwangvc.github.io/' target='_blank'>Xuan Wang <sup>2</sup></a>&emsp;
-    <a target='_blank'>Yunfan Zhan <sup>1</sup> </a>&emsp;
+    <a target='_blank'>Yunfan Zhang <sup>1</sup> </a>&emsp;
     <a target='_blank'>Jie Zhang <sup>1</sup> </a>&emsp;
     <a href='https://caiguijiang.github.io/' target='_blank'>Caigui Jiang <sup>1</sup> </a>&emsp;</br>
     <a href='https://yuguo-xjtu.github.io/' target='_blank'>Yu Guo<sup>1</sup> </a>&emsp;
