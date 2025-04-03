@@ -1,5 +1,8 @@
 # iComMa: Inverting 3D Gaussian Splatting for Camera Pose Estimation via Comparing and Matching
 
+this code is modified version of the original repo. This code will take camera intrinsic parameters and folder path containing sequence of images (undistorted) for which we want to estimate the poses, and also some initial pose for the first image ( should be close enough to the ground truth . It then estimates the posed of all the images in that folder. ( it is assumed that the photos in the folder are genrated from some robot following certain path). the initial pose for an image n will the estimated pose for image( n-1) from 2nd image onwards. All the below details are same as that of the original repo
+
+
  <a href='https://arxiv.org/pdf/2312.09031.pdf'><img src='https://img.shields.io/badge/ArXiv-PDF-red'></a> &nbsp; <a href='https://yuansun-xjtu.github.io/iComMa.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 
 <div align="center">
